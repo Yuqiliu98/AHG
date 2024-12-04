@@ -7,7 +7,8 @@ import ee
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from rosetta import rosetta, SoilData
+import rosetta
+from rosetta import SoilData
 
 # 设置代理
 import os
