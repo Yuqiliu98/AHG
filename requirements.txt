@@ -9,4 +9,4 @@ setuptools
 pandas
 numpy
 matplotlib
-rosetta
+rosetta[full]
