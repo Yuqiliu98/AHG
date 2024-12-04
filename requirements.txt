@@ -1,0 +1,12 @@
+scipy
+nltk
+streamlit
+geemap
+earthengine-api
+folium
+geopandas
+setuptools
+pandas
+numpy
+matplotlib
+rosetta
